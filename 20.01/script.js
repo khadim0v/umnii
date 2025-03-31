@@ -1,0 +1,1 @@
+let js = alert("я Nurbek")
